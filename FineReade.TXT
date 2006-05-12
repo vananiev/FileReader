@@ -1,0 +1,3 @@
+Copied E:\Program Files\Microsoft Visual Studio\VB98\Program Files\Проверка дисков и FineReader\Package\setup.exe to E:\Program Files\Microsoft Visual Studio\VB98\Program Files\Проверка дисков и FineReader\Package\Deploy
+Copied E:\Program Files\Microsoft Visual Studio\VB98\Program Files\Проверка дисков и FineReader\Package\SETUP.LST to E:\Program Files\Microsoft Visual Studio\VB98\Program Files\Проверка дисков и FineReader\Package\Deploy
+Copied E:\Program Files\Microsoft Visual Studio\VB98\Program Files\Проверка дисков и FineReader\Package\FineReader.CAB to E:\Program Files\Microsoft Visual Studio\VB98\Program Files\Проверка дисков и FineReader\Package\Deploy
